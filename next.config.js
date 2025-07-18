@@ -7,7 +7,7 @@ const nextConfig = {
   staticPageGenerationTimeout: 1000,
   images: {
     unoptimized: true, // for cloudflare pages
-    domains: ['gola-nft-marketplace.infura-ipfs.io']
+    domains: ['gola-nft-marketplace.infura-ipfs.io','gateway.pinata.cloud','copper-zippy-woodpecker-824.mypinata.cloud']
   },
   compiler: {
     styledComponents: true
